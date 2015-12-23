@@ -1,0 +1,27 @@
+{
+  "name": "giftr",
+  "version": "1.0.0",
+  "description": "Create wishlists, give gifts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rottgoth/giftr.git"
+  },
+  "keywords": [
+    "wishlist",
+    "gift",
+    "present",
+    "giftr",
+    "wish",
+    "list"
+  ],
+  "author": "Rob Cataneo <robcataneo@gmail.com> (https://github.com/rottgoth)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rottgoth/giftr/issues"
+  },
+  "homepage": "https://github.com/rottgoth/giftr#readme"
+}
